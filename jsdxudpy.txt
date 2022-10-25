@@ -14,7 +14,7 @@ CCTV11HD,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.229:4056
 CCTV11HD,http://114.216.248.132:4022/udp/239.49.0.11:8080
 CCTV12HD,http://114.216.248.132:4022/udp/239.49.8.55:9822
 CCTV13HD,http://114.216.248.132:4022/rtp/239.49.8.109:8000
-CCTV14HD,http://114.216.248.132:4022/udp/239.49.8.56:9826
+CCTV14HD,http://114.216.248.132:4022/udp/239.49.0.14:8104
 CCTV15HD,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.230:4056
 CCTV15HD,http://114.216.248.132:4022/udp/239.49.0.15:8112
 苏州新闻综合,https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
