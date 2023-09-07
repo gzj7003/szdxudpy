@@ -33,15 +33,15 @@ http://117.80.127.7:4022/udp/239.49.0.15:8112
 rtmp://csztv.2500sz.com/live/c01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州社会经济
 rtmp://csztv.2500sz.com/live/c02
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州文化生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州文化生活
 rtmp://csztv.2500sz.com/live/c03
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州生活资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州生活资讯
 rtp://239.49.8.194:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州生活资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州生活资讯
 rtp://239.49.8.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州生活资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州生活资讯
 rtmp://csztv.2500sz.com/live/c04
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州地方台",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 http://117.80.127.7:4022/udp/239.49.8.16:9602
