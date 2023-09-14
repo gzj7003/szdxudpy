@@ -37,8 +37,6 @@ https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯" tvg-logo="" group-title="苏州地方台",苏州生活资讯
 rtp://239.49.8.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯" tvg-logo="" group-title="苏州地方台",苏州生活资讯
-https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州4k" tvg-logo="" group-title="苏州地方台",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
@@ -54,8 +52,5 @@ http://117.80.127.7:4022/udp/239.49.8.12:9418
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://117.80.127.7:4022/rtp/239.49.0.54:8424
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://117.80.127.7:4022/udp/239.49.0.147:8000
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+
