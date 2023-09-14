@@ -29,7 +29,7 @@ http://117.80.127.7:4022/rtp/239.49.8.109:8000
 http://117.80.127.7:4022/udp/239.49.0.14:8104
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15HD
 http://117.80.127.7:4022/udp/239.49.0.15:8112
-#EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="" group-title="苏州地方台",苏州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://www.xcwmzy.com/tvimg/tvpic/szxwpd.jpg" group-title="苏州地方台",苏州新闻综合
 rtmp://csztv.2500sz.com/live/c01
 #EXTINF:-1 tvg-id="" tvg-name="苏州社会经济" tvg-logo="" group-title="苏州地方台",苏州社会经济
 rtmp://csztv.2500sz.com/live/c02
