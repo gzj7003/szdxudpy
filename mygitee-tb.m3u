@@ -7,7 +7,7 @@ http://117.80.127.7:4022/udp/239.49.8.50:9802
 http://117.80.127.7:4022/rtp/239.49.8.74:8000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4HD
 http://117.80.127.7:4022/udp/239.49.8.51:9806
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5HD
 http://117.80.127.7:4022/udp/239.49.8.75:8000
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6HD
 http://117.80.127.7:4022/udp/239.49.8.76:8000
