@@ -41,15 +41,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="" group-title="苏州台",苏州新闻综合
+#EXTINF:-1 tvg-id="17" tvg-name="苏州新闻综合" tvg-logo="http://www.csztv.cn/images/ds_off_01.png" group-title="苏州地方台",苏州新闻综合
 http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="" tvg-logo="" group-title="苏州台",苏州社会经济
+#EXTINF:-1 tvg-id="18" tvg-name="苏州社会经济" tvg-logo="http://www.csztv.cn/images/ds_off_02.png" group-title="苏州地方台",苏州社会经济
 http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="" group-title="苏州台",苏州文化生活
+#EXTINF:-1 tvg-id="19" tvg-name="苏州文化生活" tvg-logo="http://www.csztv.cn/images/ds_off_03.png" group-title="苏州地方台",苏州文化生活
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="" tvg-logo="" group-title="苏州台",苏州生活资讯
+#EXTINF:-1 tvg-id="20" tvg-name="苏州生活资讯" tvg-logo="http://www.csztv.cn/images/ds_off_05.png" group-title="苏州地方台",苏州生活资讯
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="苏州台",苏州4k
+#EXTINF:-1 tvg-id="21" tvg-name="苏州4k" tvg-logo="" group-title="苏州地方台",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
