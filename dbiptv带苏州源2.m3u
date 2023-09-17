@@ -1,109 +1,102 @@
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="µçÊÓÌ¨",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="ç”µè§†å°",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="µçÊÓÌ¨",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="ç”µè§†å°",CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="µçÊÓÌ¨",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="ç”µè§†å°",CCTV3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="µçÊÓÌ¨",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="ç”µè§†å°",CCTV4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="µçÊÓÌ¨",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="ç”µè§†å°",CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="µçÊÓÌ¨",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="ç”µè§†å°",CCTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="µçÊÓÌ¨",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="ç”µè§†å°",CCTV6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="µçÊÓÌ¨",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="ç”µè§†å°",CCTV7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="µçÊÓÌ¨",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="ç”µè§†å°",CCTV8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="µçÊÓÌ¨",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="ç”µè§†å°",CCTV9
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="µçÊÓÌ¨",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="ç”µè§†å°",CCTV10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="µçÊÓÌ¨",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="ç”µè§†å°",CCTV11
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="µçÊÓÌ¨",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="ç”µè§†å°",CCTV12
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="µçÊÓÌ¨",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="ç”µè§†å°",CCTV13
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="µçÊÓÌ¨",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="ç”µè§†å°",CCTV14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
-#
-EXTINF:-1 tvg-id="16" tvg-name="ËÕÖİĞÂÎÅ×ÛºÏ" tvg-logo="http://www.csztv.cn/images/ds_off_01.png" group-title="ËÕÖİµØ·½Ì¨",ËÕÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-id="16" tvg-name="è‹å·æ–°é—»ç»¼åˆ" tvg-logo="http://www.csztv.cn/images/ds_off_01.png" group-title="è‹å·åœ°æ–¹å°",è‹å·æ–°é—»ç»¼åˆ
 http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="ËÕÖİÉç»á¾­¼Ã" tvg-logo="http://www.csztv.cn/images/ds_off_02.png" group-title="ËÕÖİµØ·½Ì¨",ËÕÖİÉç»á¾­¼Ã
+#EXTINF:-1 tvg-id="17" tvg-name="è‹å·ç¤¾ä¼šç»æµ" tvg-logo="http://www.csztv.cn/images/ds_off_02.png" group-title="è‹å·åœ°æ–¹å°",è‹å·ç¤¾ä¼šç»æµ
 http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-name="ËÕÖİÎÄ»¯Éú»î" tvg-logo="http://www.csztv.cn/images/ds_off_03.png" group-title="ËÕÖİµØ·½Ì¨",ËÕÖİÎÄ»¯Éú»î
+#EXTINF:-1 tvg-id="18" tvg-name="è‹å·æ–‡åŒ–ç”Ÿæ´»" tvg-logo="http://www.csztv.cn/images/ds_off_03.png" group-title="è‹å·åœ°æ–¹å°",è‹å·æ–‡åŒ–ç”Ÿæ´»
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-
-#EXTINF:-1 tvg-id="19" tvg-name="ËÕÖİÉú»î×ÊÑ¶" tvg-logo="http://www.csztv.cn/images/ds_off_05.png" group-title="ËÕÖİµØ·½Ì¨",ËÕÖİÉú»î×ÊÑ¶
-
+#EXTINF:-1 tvg-id="19" tvg-name="è‹å·ç”Ÿæ´»èµ„è®¯" tvg-logo="http://www.csztv.cn/images/ds_off_05.png" group-title="è‹å·åœ°æ–¹å°",è‹å·ç”Ÿæ´»èµ„è®¯
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-name="ËÕÖİ4k" tvg-logo="" group-title="ËÕÖİµØ·½Ì¨",ËÕÖİ4k
+#EXTINF:-1 tvg-id="20" tvg-name="è‹å·4k" tvg-logo="" group-title="è‹å·åœ°æ–¹å°",è‹å·4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="½­ËÕÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="µçÊÓÌ¨",½­ËÕÎÀÊÓ
+#EXTINF:-1 tvg-id="22" tvg-name="æ±Ÿè‹å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="ç”µè§†å°",æ±Ÿè‹å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="¹ãÎ÷ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="µçÊÓÌ¨",¹ãÎ÷ÎÀÊÓ
+#EXTINF:-1 tvg-id="23" tvg-name="å¹¿è¥¿å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="ç”µè§†å°",å¹¿è¥¿å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="ËÄ´¨ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="µçÊÓÌ¨",ËÄ´¨ÎÀÊÓ
+#EXTINF:-1 tvg-id="24" tvg-name="å››å·å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="ç”µè§†å°",å››å·å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="¶«·½ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="µçÊÓÌ¨",¶«·½ÎÀÊÓ
+#EXTINF:-1 tvg-id="25" tvg-name="ä¸œæ–¹å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="ç”µè§†å°",ä¸œæ–¹å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="ºşÄÏÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="µçÊÓÌ¨",ºşÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="26" tvg-name="æ¹–å—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="ç”µè§†å°",æ¹–å—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Õã½­ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="µçÊÓÌ¨",Õã½­ÎÀÊÓ
+#EXTINF:-1 tvg-id="27" tvg-name="æµ™æ±Ÿå«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="ç”µè§†å°",æµ™æ±Ÿå«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225788/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="±±¾©ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="µçÊÓÌ¨",±±¾©ÎÀÊÓ
+#EXTINF:-1 tvg-id="28" tvg-name="åŒ—äº¬å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="ç”µè§†å°",åŒ—äº¬å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="Ìì½òÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="µçÊÓÌ¨",Ìì½òÎÀÊÓ
+#EXTINF:-1 tvg-id="29" tvg-name="å¤©æ´¥å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="ç”µè§†å°",å¤©æ´¥å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="ÁÉÄşÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="µçÊÓÌ¨",ÁÉÄşÎÀÊÓ
+#EXTINF:-1 tvg-id="30" tvg-name="è¾½å®å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="ç”µè§†å°",è¾½å®å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="°²»ÕÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="µçÊÓÌ¨",°²»ÕÎÀÊÓ
+#EXTINF:-1 tvg-id="31" tvg-name="å®‰å¾½å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="ç”µè§†å°",å®‰å¾½å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="ºÚÁú½­ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="µçÊÓÌ¨",ºÚÁú½­ÎÀÊÓ
+#EXTINF:-1 tvg-id="32" tvg-name="é»‘é¾™æ±Ÿå«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="ç”µè§†å°",é»‘é¾™æ±Ÿå«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="¹ã¶«ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="µçÊÓÌ¨",¹ã¶«ÎÀÊÓ
+#EXTINF:-1 tvg-id="33" tvg-name="å¹¿ä¸œå«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="ç”µè§†å°",å¹¿ä¸œå«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="ÉîÛÚÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="µçÊÓÌ¨",ÉîÛÚÎÀÊÓ
+#EXTINF:-1 tvg-id="34" tvg-name="æ·±åœ³å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="ç”µè§†å°",æ·±åœ³å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="ºş±±ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="µçÊÓÌ¨",ºş±±ÎÀÊÓ
+#EXTINF:-1 tvg-id="35" tvg-name="æ¹–åŒ—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="ç”µè§†å°",æ¹–åŒ—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="¼ªÁÖÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="µçÊÓÌ¨",¼ªÁÖÎÀÊÓ
+#EXTINF:-1 tvg-id="36" tvg-name="å‰æ—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="ç”µè§†å°",å‰æ—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="É½¶«ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="µçÊÓÌ¨",É½¶«ÎÀÊÓ
+#EXTINF:-1 tvg-id="37" tvg-name="å±±ä¸œå«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="ç”µè§†å°",å±±ä¸œå«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="½­Î÷ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="µçÊÓÌ¨",½­Î÷ÎÀÊÓ
+#EXTINF:-1 tvg-id="38" tvg-name="æ±Ÿè¥¿å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="ç”µè§†å°",æ±Ÿè¥¿å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="ºÓÄÏÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="µçÊÓÌ¨",ºÓÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="39" tvg-name="æ²³å—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="ç”µè§†å°",æ²³å—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="ºÓ±±ÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="µçÊÓÌ¨",ºÓ±±ÎÀÊÓ
+#EXTINF:-1 tvg-id="40" tvg-name="æ²³åŒ—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="ç”µè§†å°",æ²³åŒ—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="¸ÊËàÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="µçÊÓÌ¨",¸ÊËàÎÀÊÓ
+#EXTINF:-1 tvg-id="41" tvg-name="ç”˜è‚ƒå«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="ç”µè§†å°",ç”˜è‚ƒå«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="ÖØÇìÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="µçÊÓÌ¨",ÖØÇìÎÀÊÓ
+#EXTINF:-1 tvg-id="42" tvg-name="é‡åº†å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="ç”µè§†å°",é‡åº†å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="¶«ÄÏÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="µçÊÓÌ¨",¶«ÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="43" tvg-name="ä¸œå—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="ç”µè§†å°",ä¸œå—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="ÔÆÄÏÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="µçÊÓÌ¨",ÔÆÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="44" tvg-name="äº‘å—å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="ç”µè§†å°",äº‘å—å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="¹óÖİÎÀÊÓ" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="µçÊÓÌ¨",¹óÖİÎÀÊÓ
+#EXTINF:-1 tvg-id="45" tvg-name="è´µå·å«è§†" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="ç”µè§†å°",è´µå·å«è§†
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="´óÍåÇøÎÀÊÓ" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%862.png" group-title="µçÊÓÌ¨",´óÍåÇøÎÀÊÓ
+#EXTINF:-1 tvg-id="19" tvg-name="å¤§æ¹¾åŒºå«è§†" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%862.png" group-title="ç”µè§†å°",å¤§æ¹¾åŒºå«è§†
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-#EXTINF:-1 tvg-id="20" tvg-name="ôä´äÌ¨" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="µçÊÓÌ¨",ôä´äÌ¨
+#EXTINF:-1 tvg-id="20" tvg-name="ç¿¡ç¿ å°" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="ç”µè§†å°",ç¿¡ç¿ å°
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="21" tvg-name="ôä´äÌ¨" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="µçÊÓÌ¨",ôä´äÌ¨
+#EXTINF:-1 tvg-id="21" tvg-name="ç¿¡ç¿ å°" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="ç”µè§†å°",ç¿¡ç¿ å°
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8?by=yeslivetv_com
-#EXTINF:-1 tvg-id="51" tvg-name="ÖĞ¹ú½ÌÓı1Ì¨" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ÖĞ¹ú½ÌÓı1Ì¨.png" group-title="µçÊÓÌ¨",ÖĞ¹ú½ÌÓı-1
+#EXTINF:-1 tvg-id="51" tvg-name="ä¸­å›½æ•™è‚²1å°" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ä¸­å›½æ•™è‚²1å°.png" group-title="ç”µè§†å°",ä¸­å›½æ•™è‚²-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="ÖĞ¹ú½ÌÓı2Ì¨" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ÖĞ¹ú½ÌÓı2Ì¨.png" group-title="µçÊÓÌ¨",ÖĞ¹ú½ÌÓı-2
+#EXTINF:-1 tvg-id="52" tvg-name="ä¸­å›½æ•™è‚²2å°" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ä¸­å›½æ•™è‚²2å°.png" group-title="ç”µè§†å°",ä¸­å›½æ•™è‚²-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="ÖĞ¹ú½ÌÓı3Ì¨" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ÖĞ¹ú½ÌÓı3Ì¨.png" group-title="µçÊÓÌ¨",ÖĞ¹ú½ÌÓı-3
+#EXTINF:-1 tvg-id="53" tvg-name="ä¸­å›½æ•™è‚²3å°" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ä¸­å›½æ•™è‚²3å°.png" group-title="ç”µè§†å°",ä¸­å›½æ•™è‚²-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="ÖĞ¹ú½ÌÓı4Ì¨" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ÖĞ¹ú½ÌÓı4Ì¨.png" group-title="µçÊÓÌ¨",ÖĞ¹ú½ÌÓı-4
+#EXTINF:-1 tvg-id="54" tvg-name="ä¸­å›½æ•™è‚²4å°" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ä¸­å›½æ•™è‚²4å°.png" group-title="ç”µè§†å°",ä¸­å›½æ•™è‚²-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
