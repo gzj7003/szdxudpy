@@ -86,12 +86,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="电视台",贵州卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%862.png" group-title="电视台",大湾区卫视
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-#EXTINF:-1 tvg-id="20" tvg-name="翡翠台" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="电视台",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="21" tvg-name="翡翠台" tvg-logo="https://gitee.com/kg2023/zby/raw/master/%E5%9B%BE%E7%89%87/%E7%BF%A1%E7%BF%A0%E5%8F%B0.jpg" group-title="电视台",翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="51" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="电视台",中国教育-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="电视台",中国教育-2
