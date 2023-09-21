@@ -105,7 +105,7 @@ http://192.168.123.1:4022/udp/239.49.0.180:8000
 http://192.168.123.1:4022/udp/239.49.0.245:8000
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://192.168.123.1:4022/udp/239.49.0.233:8000
-#EXTINF:-1 tvg-id="56" tvg-name="南方卫视" tvg-logo="" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="56" tvg-name="" tvg-logo="https://img0.baidu.com/it/u=1766016397,4137256325&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500" group-title="卫视",南方卫视
 http://192.168.123.1:4022/udp/239.49.0.234:8000
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://192.168.123.1:4022/udp/239.49.0.178:8000
