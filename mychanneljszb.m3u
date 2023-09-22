@@ -60,7 +60,7 @@ http://192.168.123.1:4022/udp/239.49.8.12:9418
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://192.168.123.1:4022/udp/239.49.8.13:9422
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://192.168.123.1:4022/udp/239.49.8.209:6000
+http://192.168.123.1:4022/udp/239.49.8.10:8000
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://192.168.123.1:4022/udp/239.49.8.212:6000
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
