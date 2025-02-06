@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
-http://222.68.34.110:9898/udp/239.45.3.145:5140
+http://nas.ikuai1981.top:5027/TVOD/1000000001000021973/wasusyt/index.m3u8$7.5M1080_华数
 http://karika.myds.me:4023/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
+http://nas.ikuai1981.top:5027/TVOD/1000000001000012442/wasusyt/index.m3u8$8M1080_华数
 http://222.68.34.110:9898/udp/239.45.0.1:5140
 http://116.227.100.73:9200/udp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3HD
