@@ -27,7 +27,7 @@ http://60.177.148.223:4022/rtp/233.50.200.111:5140
 #EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="央视",CCTV-14HD
 http://60.177.148.223:4022/rtp/233.50.201.124:5140
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="央视",CCTV-15HD
-http://60.177.148.223:4022/udp/239.45.0.20:5140
+http://60.177.148.223:4022/udp/233.50.200.91:5140
 #EXTINF:-1 tvg-id="16" tvg-name="苏州新闻综合" tvg-logo="http://www.csztv.cn/images/ds_off_01.png" group-title="苏州地方台",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 rtmp://csztv.2500sz.com/live/c01
