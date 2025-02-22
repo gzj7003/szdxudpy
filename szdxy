@@ -45,14 +45,13 @@ http://49.64.171.51:8887/rtp/239.49.8.116:8000
 http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 http://karika.myds.me:4022/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="142" tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
-http://58.220.219.14:9901/tsfile/live/0127_1.m3u8
 http://karika.myds.me:4022/udp/239.45.3.177:5140
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
-http://58.220.219.14:9901/tsfile/live/0107_1.m3u8?key=txiptv
 http://karika.myds.me:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视HD
 http://karika.myds.me:4022/udp/239.45.3.228:5140
 #EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视",北京卫视HD
+http://karika.myds.me:4022/udp/239.45.3.229:5140
 http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="233" tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
