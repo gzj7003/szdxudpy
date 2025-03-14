@@ -57,7 +57,7 @@ rtmp://csztv.2500sz.com/live/c03
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 http://49.64.171.51:8887/rtp/239.49.8.116:8000
 #EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
-http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
+http://183.144.78.93:8888/rtp/233.50.200.231:5140$浙江电信
 http://karika.myds.me:4022/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="142" tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 http://183.144.78.93:8888/rtp/233.50.201.106:5140
