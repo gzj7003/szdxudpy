@@ -51,3 +51,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+try:
+    with open("mytvlist.m3u", "w", encoding="utf-8") as f:
+        f.write(content)
+except IOError as e:
+    print(f"保存文件失败: {e}")
