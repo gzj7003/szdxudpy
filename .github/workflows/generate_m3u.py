@@ -1,7 +1,7 @@
 import requests
 
 # 原始直播源地址
-SOURCE_URL = "https://raw.githubusercontent.com/gzj7003/kds/refs/heads/main/IPTV2.m3u"
+SOURCE_URL = "https://github.moeyy.xyz/https://raw.githubusercontent.com/gzj7003/kds/refs/heads/main/IPTV2.m3u"
 
 # 自定义直播源
 CUSTOM_SOURCES = """
