@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run mytvlist
+      - name: Run generate_m3u
         run: python ${{ github.workspace }}/generate_m3u.py
         
       - name: Commit and push changes
