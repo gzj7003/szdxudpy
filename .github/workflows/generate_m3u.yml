@@ -21,10 +21,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate M3U playlist
-        run: |
-          python generate_m3u.py
-
+      - name: Run mytvlist
+        run: python ${{ github.workspace }}/generate_m3u.py
+        
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
