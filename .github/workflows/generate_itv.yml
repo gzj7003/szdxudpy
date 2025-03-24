@@ -1,8 +1,8 @@
-name: Generate M3U Playlist
+name: Generate ITV Playlist
 
 on:
   schedule:
-    - cron: '0 22,6,14 * * *'  # 每天 UTC 时间 22:00,6:00,14:00 自动运行
+    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00（北京时间 08:00）自动运行
   workflow_dispatch:     # 允许手动触发
 
 jobs:
@@ -16,18 +16,19 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13'
+          python-version: '3.10'
 
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run generate_m3u
-        run: python ${{ github.workspace }}/generate_m3u.py
-        
+      - name: Generate ITV playlist
+        run: |
+          python generate_itv.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add mytvlist.m3u
-          git commit -m "Update M3U playlist"
+          git add txt_files/itv.m3u
+          git commit -m "Update ITV playlist"
           git push
