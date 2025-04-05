@@ -1,62 +1,47 @@
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
-http://goo.bkpcp.top/mg/cctv1
 http://z.b.bkpcp.top/m.php?id=cctv1
 http://karika.myds.me:4022/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
-http://goo.bkpcp.top/mg/cctv2
 http://z.b.bkpcp.top/m.php?id=cctv2
 http://karika.myds.me:4022/udp/239.45.0.1:5140
 http://116.227.100.73:9200/udp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3HD
-http://goo.bkpcp.top/mg/cctv3
 http://z.b.bkpcp.top/m.php?id=cctv3
 http://karika.myds.me:4022/udp/239.45.1.68:5140
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV-4" tvg-logo="https://epg.deny.vip/cctv/CCTV-4.png" group-title="央视",CCTV-4HD
-http://goo.bkpcp.top/mg/cctv4
 http://z.b.bkpcp.top/m.php?id=cctv4
 http://karika.myds.me:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视",CCTV-5HD
-http://goo.bkpcp.top/mg/cctv5
 http://z.b.bkpcp.top/m.php?id=cctv5
 http://karika.myds.me:4022/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="129" tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6HD
-http://goo.bkpcp.top/mg/cctv6
 http://z.b.bkpcp.top/m.php?id=cctv6
 http://karika.myds.me:4022/udp/239.45.1.70:5140
 #EXTINF:-1 tvg-id="130" tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视",CCTV-7HD
-http://goo.bkpcp.top/mg/cctv7
 http://z.b.bkpcp.top/m.php?id=cctv7
 http://karika.myds.me:4022/udp/239.45.3.56:5140
 #EXTINF:-1 tvg-id="131" tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视",CCTV-8HD
-http://goo.bkpcp.top/mg/cctv8
 http://z.b.bkpcp.top/m.php?id=cctv8
 http://karika.myds.me:4022/udp/239.45.1.71:5140
 #EXTINF:-1 tvg-id="132" tvg-name="CCTV-9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="央视",CCTV-9HD
-http://goo.bkpcp.top/mg/cctv9
 http://z.b.bkpcp.top/m.php?id=cct9
 http://karika.myds.me:4022/udp/239.45.3.4:5140
 #EXTINF:-1 tvg-id="133" tvg-name="CCTV-10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="央视",CCTV-10HD
-http://goo.bkpcp.top/mg/cctv10
 http://z.b.bkpcp.top/m.php?id=cctv10
 http://karika.myds.me:4022/udp/239.45.3.8:5140
 #EXTINF:-1 tvg-id="134" tvg-name="CCTV-11" tvg-logo="https://epg.deny.vip/cctv/CCTV-11.png" group-title="央视",CCTV-11HD
-http://goo.bkpcp.top/mg/cctv11
 http://z.b.bkpcp.top/m.php?id=cctv11
 http://karika.myds.me:4022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="135" tvg-name="CCTV-12" tvg-logo="https://epg.deny.vip/cctv/CCTV-12.png" group-title="央视",CCTV-12HD
-http://goo.bkpcp.top/mg/cctv12
 http://z.b.bkpcp.top/m.php?id=cctv12
 http://karika.myds.me:4022/udp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://epg.deny.vip/cctv/CCTV-13.png" group-title="央视",CCTV-13HD
-http://goo.bkpcp.top/mg/cctv13
 http://z.b.bkpcp.top/m.php?id=cctv13
 http://karika.myds.me:4022/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="央视",CCTV-14HD
-http://goo.bkpcp.top/mg/cctv14
 http://z.b.bkpcp.top/m.php?id=cctv14
 http://karika.myds.me:4022/udp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="央视",CCTV-15HD
-http://goo.bkpcp.top/mg/cctv15
 http://z.b.bkpcp.top/m.php?id=cctv15
 http://karika.myds.me:4022/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="16" tvg-name="苏州新闻综合" tvg-logo="http://www.csztv.cn/images/ds_off_01.png" group-title="苏州地方台",苏州新闻综合
